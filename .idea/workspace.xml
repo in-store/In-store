@@ -69,8 +69,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InStore/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="33" column="82" lean-forward="false" selection-start-line="33" selection-start-column="82" selection-end-line="33" selection-end-column="82" />
+            <state relative-caret-position="283">
+              <caret line="33" column="129" lean-forward="true" selection-start-line="33" selection-start-column="129" selection-end-line="33" selection-end-column="129" />
               <folding />
             </state>
           </provider>
@@ -1081,8 +1081,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/InStore/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="33" column="82" lean-forward="false" selection-start-line="33" selection-start-column="82" selection-end-line="33" selection-end-column="82" />
+        <state relative-caret-position="283">
+          <caret line="33" column="129" lean-forward="true" selection-start-line="33" selection-start-column="129" selection-end-line="33" selection-end-column="129" />
           <folding />
         </state>
       </provider>
